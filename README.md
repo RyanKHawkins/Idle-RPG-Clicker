@@ -10,3 +10,4 @@ I don't have a theme yet; I just like the genre.
 
 #### Need to Learn
 - JSON (for saving player data)
+- Session storage / user storage
